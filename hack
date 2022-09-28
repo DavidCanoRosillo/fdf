@@ -1,0 +1,1 @@
+clang -o monki main.c -L.. -lmlx -L/usr/X11/include/../lib -lXext -lX11 -lm

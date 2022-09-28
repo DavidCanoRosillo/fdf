@@ -1,0 +1,3 @@
+include "minilibx-linux/mlx.h"
+
+mlx_init() para iniciar
